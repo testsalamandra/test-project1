@@ -1,7 +1,7 @@
 
 Installation instructions:
 
-Step 1.
-Step 2.
-Step 3.
-Step 4.
+Step 1. Download Product.dmg
+Step 2. Double-click Product.dmg to mount
+Step 3. Drag&Drop Product.app to Applications folder
+Step 4. Open Application folder and Double-click Product.app
