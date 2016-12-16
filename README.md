@@ -1,2 +1,2 @@
 # test-project1
-Just for GitHub experimenting purpose
+This is a project for experimenting with GitHub features
