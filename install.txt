@@ -3,5 +3,5 @@ Installation instructions:
 
 Step 1. Download Product.dmg
 Step 2. Double-click Product.dmg to mount
-Step 3. Drag&Drop Product.app from opened mounted folder to Applications folder
+Step 3. Drag&Drop Product.app from opened mounted Product folder to Applications folder
 Step 4. Open Application folder and Double-click Product.app
